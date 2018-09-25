@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bc80f74-4542-4e80-b36a-c6554971f4ed" name="Default Changelist" comment="" />
+    <list default="true" id="9bc80f74-4542-4e80-b36a-c6554971f4ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polynomialfitting.py" beforeDir="false" afterPath="$PROJECT_DIR$/polynomialfitting.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,54 +16,50 @@
     <session id="-1196809021">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.29" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="7" />
+          <entry key="py" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="7" />
+          <entry key="Python" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="657" />
-          <entry key="py" value="7964" />
+          <entry key="py" value="8799" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="8621" />
+          <entry key="Python" value="9456" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/polynomialfitting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="177" column="59" lean-forward="true" selection-start-line="177" selection-start-column="59" selection-end-line="177" selection-end-column="59" />
+            <state relative-caret-position="408">
+              <caret line="208" column="20" selection-start-line="208" selection-start-column="20" selection-end-line="208" selection-end-column="20" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
-                <element signature="e#1448#1675#0" />
-                <element signature="e#1983#2079#0" />
-                <element signature="e#2156#2265#0" />
-                <element signature="e#2609#2928#0" />
-                <marker date="1537506716019" expanded="false" signature="1737:1746" ph="..." />
-                <marker date="1537506716019" expanded="true" signature="2953:2958" ph="..." />
-                <marker date="1537506716019" expanded="true" signature="4284:4289" ph="..." />
-                <marker date="1537506716019" expanded="true" signature="4355:4865" ph="..." />
-                <marker date="1537506716019" expanded="true" signature="6679:7141" ph="..." />
-                <marker date="1537506716019" expanded="true" signature="7141:7142" ph="..." />
-                <marker date="1537506716019" expanded="true" signature="7153:7766" ph="..." />
+                <element signature="e#127#549#0" />
+                <element signature="e#595#1380#0" />
+                <marker date="1537860374002" expanded="false" signature="1743:1752" ph="..." />
+                <marker date="1537860374002" expanded="true" signature="2959:2964" ph="..." />
+                <marker date="1537860374002" expanded="true" signature="4278:4283" ph="..." />
+                <marker date="1537860374002" expanded="true" signature="4352:4864" ph="..." />
               </folding>
             </state>
           </provider>
@@ -79,6 +79,9 @@
       <find>transpose()</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -86,18 +89,17 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="185" />
-    <option name="y" value="17" />
-    <option name="width" value="1158" />
-    <option name="height" value="1007" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="566" />
+    <option name="y" value="23" />
+    <option name="width" value="1160" />
+    <option name="height" value="1009" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,9 +111,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -177,23 +181,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="148" y="14" width="926" height="805" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19325842" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11360634" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" weight="0.27903682" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39821693" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3611898" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38014185" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3602837" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.27903682" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -212,9 +216,45 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="(np.dot(self.valid_X, self.W) - self.valid_T).T.dot(np.dot(self.valid_X, self.W) - self.valid_T)" language="Python" />
+        <watch expression="np.dot(self.train_X.T, self.train_X)" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>(np.dot(self.valid_X, self.W) - self.valid_T).T.dot(np.dot(self.valid_X, self.W) - self.valid_T)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>regular * np.eye(self.train_X.shape[1])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>np.linalg.inv(2 * np.dot(self.train_X.T, self.train_X) + regular * np.eye(self.train_X.shape[1]))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>np.dot(self.train_X.T, self.train_X)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>np.linalg.inv(2 * np.dot(self.train_X.T, self.train_X)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>2 * np.linalg.inv(2 * np.dot(self.train_X.T, self.train_X)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>w</expression-string>
         <language-id>Python</language-id>
@@ -261,23 +301,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/twodim_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="193" selection-start-line="193" selection-end-line="193" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/polynomialfitting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="177" column="59" lean-forward="true" selection-start-line="177" selection-start-column="59" selection-end-line="177" selection-end-column="59" />
+        <state relative-caret-position="408">
+          <caret line="208" column="20" selection-start-line="208" selection-start-column="20" selection-end-line="208" selection-end-column="20" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#1448#1675#0" />
-            <element signature="e#1983#2079#0" />
-            <element signature="e#2156#2265#0" />
-            <element signature="e#2609#2928#0" />
-            <marker date="1537506716019" expanded="false" signature="1737:1746" ph="..." />
-            <marker date="1537506716019" expanded="true" signature="2953:2958" ph="..." />
-            <marker date="1537506716019" expanded="true" signature="4284:4289" ph="..." />
-            <marker date="1537506716019" expanded="true" signature="4355:4865" ph="..." />
-            <marker date="1537506716019" expanded="true" signature="6679:7141" ph="..." />
-            <marker date="1537506716019" expanded="true" signature="7141:7142" ph="..." />
-            <marker date="1537506716019" expanded="true" signature="7153:7766" ph="..." />
+            <element signature="e#127#549#0" />
+            <element signature="e#595#1380#0" />
+            <marker date="1537860374002" expanded="false" signature="1743:1752" ph="..." />
+            <marker date="1537860374002" expanded="true" signature="2959:2964" ph="..." />
+            <marker date="1537860374002" expanded="true" signature="4278:4283" ph="..." />
+            <marker date="1537860374002" expanded="true" signature="4352:4864" ph="..." />
           </folding>
         </state>
       </provider>
